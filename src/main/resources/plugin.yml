@@ -1,0 +1,8 @@
+main: cn.wode490390.nukkit.antixray.AntiXray
+name: "AntiXray"
+authors: ["wode490390", "Wode", "Woder", "Wodor"]
+description: "Anti X-Ray cheat plugin for Nukkit"
+website: "http://wode490390.cn/"
+version: "${pom.version}"
+api: ["1.0.9"]
+load: POSTWORLD
